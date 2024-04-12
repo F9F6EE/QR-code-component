@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-Keeping learning more about html and flexbox.
+Keeping learning more about html and css.
 
 ## Author
 
